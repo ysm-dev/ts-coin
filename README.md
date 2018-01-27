@@ -62,5 +62,6 @@ Using [Postman](https://www.getpostman.com/apps) which is API test tool.
     
 ## References
 
+- [https://tykimos.github.io/2018/01/21/g_coin_analysis_part1/](https://tykimos.github.io/2018/01/21/g_coin_analysis_part1/) (Korean)
 - [https://github.com/golbin/g-coin](https://github.com/golbin/g-coin)
 - [http://ecomunsing.com/build-your-own-blockchain](http://ecomunsing.com/build-your-own-blockchain)
