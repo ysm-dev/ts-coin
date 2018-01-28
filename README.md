@@ -18,6 +18,7 @@ Simple BlockChain implementation with [Express](http://expressjs.com), [TypeScri
 
 ```sh
 $ git clone https://github.com/ysm0622/ts-coin.git
+$ npm i
 $ node index.js
 ```
 
